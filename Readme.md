@@ -13,4 +13,7 @@ We asked to the LLM about [three competency questions](./competency-questions/).
 
 The solutions to these questions are in [Project.ipnyb](./Project.ipynb)
 
+# Conclusion
+Now, we can ask different questions in natural language and the model can answer them.
+
 
