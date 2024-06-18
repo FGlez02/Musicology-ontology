@@ -1,7 +1,7 @@
 # Musicology Ontology
 
 ## Done by Fernando González Sanz and Diego Rodriguez de Roa (Erasmus Student)
-For more information here you have the report.
+For more information here you have the [report](./Report_KE_Fernando_Diego.pdf).
 ### RDF Graph
 ![Schema](ontology-schema.png)
 
